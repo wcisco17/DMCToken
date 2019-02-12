@@ -27,7 +27,7 @@
 
 # Tech Stack
   - ReactJS Front-End.
-  - Drizzle for State management and Truffle to connect.
+  - Drizzle for State management and Truffle to connect the backend with Solidity contract.
 
 # License
   - Feel free to fork or modify.
