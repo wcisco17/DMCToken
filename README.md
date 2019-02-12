@@ -1,4 +1,5 @@
 <h1 align="center">
+  <img src="https://raw.githubusercontent.com/wcisco17/DMCToken/master/src/components/assets/img/Screen%20Shot%202018-11-29%20at%205.08.52%20PM.png" alt="..." />
   DMCToken
 </h1>
  
