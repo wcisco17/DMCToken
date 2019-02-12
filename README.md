@@ -29,6 +29,7 @@
 # Tech Stack
   - ReactJS Front-End.
   - Drizzle for State management and Truffle to connect the backend with Solidity contract.
+  - Make sure you have npm installed.
 
 # License
   - Feel free to fork or modify.
